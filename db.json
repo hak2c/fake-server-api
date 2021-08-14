@@ -7,7 +7,8 @@
         "images/collections/dresses1.jpg",
         "images/collections/dresses2.jpg"
       ],
-      "thumb": "images/collections/dresses-thumb.jpg"
+      "thumb": "images/collections/dresses-thumb.jpg",
+	  "slug": "dresses"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
         "images/collections/tops1.jpg",
         "images/collections/tops2.jpg"
       ],
-      "thumb": "images/collections/tops-thumb.jpg"
+      "thumb": "images/collections/tops-thumb.jpg",
+	  "slug": "tops"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
         "images/collections/rompers-playsuits.jpg",
         "images/collections/rompers-playsuits2.jpg"
       ],
-      "thumb": "images/collections/rompers-playsuits-thumb.jpg"
+      "thumb": "images/collections/rompers-playsuits-thumb.jpg",
+	  "slug": "rompers-and-playsuits"
     }
   ],
   "products": [
