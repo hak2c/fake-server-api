@@ -34,6 +34,7 @@
   "products": [
     {
       "id": 1,
+	  "slug": "tara-dress",
       "collectionId": 1,
       "title": "Tara Dress",
       "price": 64.99,
@@ -86,6 +87,7 @@
     },
     {
       "id": 2,
+	  "slug": "noelle-dress",
       "collectionId": 1,
       "title": "Noelle Dress",
       "price": 79.99,
@@ -124,6 +126,7 @@
     },
     {
       "id": 3,
+	  "slug": "scarlett-dress",
       "collectionId": 1,
       "title": "Scarlett Dress",
       "price": 79.99,
@@ -163,6 +166,7 @@
     },
     {
       "id": 4,
+	  "slug": "reese-dress",
       "collectionId": 1,
       "title": "Reese Dress",
       "price": 69.99,
@@ -221,6 +225,7 @@
     },
     {
       "id": 5,
+	  "slug": "melody-dress",
       "collectionId": 1,
       "title": "Melody Dress",
       "price": 79.99,
@@ -260,6 +265,7 @@
     },
     {
       "id": 6,
+	  "slug": "monika-dress",
       "collectionId": 1,
       "title": "Monika Dress",
       "price": 79.99,
@@ -321,6 +327,7 @@
     },
     {
       "id": 7,
+	  "slug": "laurina-dress",
       "collectionId": 1,
       "title": "Laurina Dress",
       "price": 64.99,
@@ -358,6 +365,7 @@
     },
     {
       "id": 8,
+	  "slug": "izzy-dress",
       "collectionId": 1,
       "title": "Izzy Dress",
       "price": 84.99,
@@ -410,6 +418,7 @@
     },
     {
       "id": 9,
+	  "slug": "jordan-dress",
       "collectionId": 1,
       "title": "Jordan Dress",
       "price": 69.99,
@@ -477,6 +486,7 @@
     },
     {
       "id": 10,
+	  "slug": "shae-top",
       "collectionId": 2,
       "title": "Shae Top",
       "price": 64.99,
@@ -531,6 +541,7 @@
     },
     {
       "id": 11,
+	  "slug": "scout-top",
       "collectionId": 2,
       "title": "Scout Top",
       "price": 59.99,
@@ -585,6 +596,7 @@
     },
     {
       "id": 12,
+	  "slug": "mackenzie-top",
       "collectionId": 2,
       "title": "Mackenzie Top",
       "price": 74.99,
@@ -602,6 +614,7 @@
     },
     {
       "id": 13,
+	  "slug": "paige-top",
       "collectionId": 2,
       "title": "Paige Top",
       "price": 74.99,
@@ -635,6 +648,7 @@
     },
     {
       "id": 14,
+	  "slug": "maggie-linen-top",
       "collectionId": 2,
       "title": "Maggie Linen Top",
       "price": 69.99,
@@ -687,6 +701,7 @@
     },
     {
       "id": 15,
+	  "slug": "jane-top",
       "collectionId": 2,
       "title": "Jane Top",
       "price": 69.99,
@@ -751,6 +766,7 @@
     },
     {
       "id": 16,
+	  "slug": "kamila-knit",
       "collectionId": 2,
       "title": "Kamila Knit",
       "price": 54.99,
@@ -798,6 +814,7 @@
     },
     {
       "id": 17,
+	  "slug": "grove-top",
       "collectionId": 2,
       "title": "Grove Top",
       "price": 59.99,
@@ -827,6 +844,7 @@
     },
     {
       "id": 18,
+	  "slug": "evie-top",
       "collectionId": 2,
       "title": "Evie Top",
       "price": 69.99,
@@ -857,6 +875,7 @@
     },
     {
       "id": 19,
+	  "slug": "ceejay-playsuit",
       "collectionId": 3,
       "title": "Ceejay Playsuit",
       "price": 84.99,
@@ -892,6 +911,7 @@
     },
     {
       "id": 20,
+	  "slug": "atlas-playsuit",
       "collectionId": 3,
       "title": "Atlas Playsuit",
       "price": 94.99,
@@ -953,6 +973,7 @@
     },
     {
       "id": 21,
+	  "slug": "bree-playsuit",
       "collectionId": 3,
       "title": "Bree Playsuit",
       "price": 69.99,
@@ -1006,6 +1027,7 @@
     },
     {
       "id": 22,
+	  "slug": "willa-playsuit",
       "collectionId": 3,
       "title": "Willa Playsuit",
       "price": 66.99,
@@ -1064,6 +1086,7 @@
     },
     {
       "id": 23,
+	  "slug": "rosa-playsuit",
       "collectionId": 3,
       "title": "Rosa Playsuit",
       "price": 69.99,
@@ -1098,6 +1121,7 @@
     },
     {
       "id": 24,
+	  "slug": "isla-romper",
       "collectionId": 3,
       "title": "Isla Romper",
       "price": 69.99,
@@ -1152,6 +1176,7 @@
     },
     {
       "id": 25,
+	  "slug": "emmanuel-playsuit",
       "collectionId": 3,
       "title": "Emmanuel Playsuit",
       "price": 69.99,
@@ -1191,6 +1216,7 @@
     },
     {
       "id": 26,
+	  "slug": "shiloh-playsuit",
       "collectionId": 3,
       "title": "Shiloh Playsuit",
       "price": 44.99,
@@ -1249,6 +1275,7 @@
     },
     {
       "id": 27,
+	  "slug": "evie-top",
       "collectionId": 2,
       "title": "Evie Top",
       "price": 69.99,
@@ -1305,6 +1332,7 @@
     },
     {
       "id": 28,
+	  "slug": "ivy-dress",
       "collectionId": 1,
       "title": "Ivy Dress",
       "price": 79.99,
@@ -1344,6 +1372,7 @@
     },
     {
       "id": 29,
+	  "slug": "hamilton-playsuit",
       "collectionId": 3,
       "title": "Hamilton Playsuit",
       "price": 35.99,
@@ -1379,6 +1408,7 @@
     },
     {
       "id": 30,
+	  "slug": "cool-breeze-top",
       "collectionId": 2,
       "title": "Cool Breeze Top",
       "price": 59.99,
@@ -1462,6 +1492,7 @@
     },
     {
       "id": 31,
+	  "slug": "arielle-dress",
       "collectionId": 1,
       "title": "Arielle Dress",
       "price": 69.99,
@@ -1519,6 +1550,7 @@
     },
     {
       "id": 32,
+	  "slug": "bali-top",
       "collectionId": 2,
       "title": "Bali Top",
       "price": 74.99,
@@ -1573,6 +1605,7 @@
     },
     {
       "id": 33,
+	  "slug": "annie-dress",
       "collectionId": 1,
       "title": "Annie Dress",
       "price": 89.99,
@@ -1611,6 +1644,7 @@
   "blogs": [
     {
       "id": 1,
+	  "slug": "the-launch-party",
       "title": "The launch party",
       "image": "/images/blogs/testament__blog-post-1.jpg",
       "introtext": "You asked, we listened. Say hello to our new and improved website that will make us your favorite online shopping destination.",
@@ -1621,6 +1655,7 @@
     },
     {
       "id": 2,
+	  "slug": "laundry-personalities",
       "title": "Laundry personalities",
       "image": "/images/blogs/testament__blog-post-2.jpg",
       "introtext": "Recognizing your laundry personality and choosing products that cater to your unique style will make doing laundry an easy and enjoyable affair.",
@@ -1631,6 +1666,7 @@
     },
     {
       "id": 3,
+	  "slug": "Walk-your-way-to-healthy",
       "title": "Walk your way to healthy",
       "image": "/images/blogs/testament__hero-gallery-1.jpg",
       "introtext": "Whether it is bikini season or time to strut your stuff on the streets of New York, there is no reason not to stay healthy. ",
